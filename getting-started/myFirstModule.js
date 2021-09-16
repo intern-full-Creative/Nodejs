@@ -1,3 +1,3 @@
 exports.myDateTime = () => {
-  Date();
+  return Date();
 };
