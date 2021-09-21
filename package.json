@@ -1,0 +1,19 @@
+{
+  "name": "node_tutorial",
+  "version": "1.0.0",
+  "description": "getting started with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intern-full-Creative/Nodejs.git"
+  },
+  "author": "jith4j",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/intern-full-Creative/Nodejs/issues"
+  },
+  "homepage": "https://github.com/intern-full-Creative/Nodejs#readme"
+}
