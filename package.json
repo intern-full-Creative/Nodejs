@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/intern-full-Creative/Nodejs/issues"
   },
-  "homepage": "https://github.com/intern-full-Creative/Nodejs#readme"
+  "homepage": "https://github.com/intern-full-Creative/Nodejs#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
