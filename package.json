@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/intern-full-Creative/Nodejs#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "express": "^4.17.1",
+    "socket.io": "^4.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
